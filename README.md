@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me ...https://linktr.ee/safin17.8
 
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 <!---
 Safin178/Safin178 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
