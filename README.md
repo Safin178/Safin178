@@ -33,7 +33,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safin178&show_icons=true&locale=en&layout=compact" alt="safin178" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=178&show_icons=true&locale=en" alt="safin178" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safin178&show_icons=true&locale=en" alt="safin178" /></p>
 
 
 
