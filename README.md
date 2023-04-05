@@ -5,6 +5,19 @@
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me ...https://linktr.ee/s17.8
 
+<a href="https://codeforces.com/profile/safin17.8">
+    <img alt="Codeforces" src="https://cp-logo.vercel.app/codeforces/safin17.8"/>
+</a>
+
+<a href="https://www.codechef.com/users/safin17_8">
+    <img alt="Codechef" src="https://cp-logo.vercel.app/codechef/safin17_8"/>
+</a>
+<a href="https://atcoder.jp/users/safin17_8">
+    <img alt="Atcoder" src="https://cp-logo.vercel.app/atcoder/safin17_8"/>
+</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedtahsin&label=Profile%20views&color=0e75b6&style=plastic" alt="safin178" /> </p>
+    
+
 
 
 <!---![](https://raw.githubusercontent.com/safin178/cf-stats/main/output/light_card.svg#gh-dark-mode-only)--->
@@ -13,8 +26,8 @@
 
 
 
-<!---![](https://raw.githubusercontent.com/safin178/cf-stats/main/output/max_rating.svg)--->
-![](https://raw.githubusercontent.com/safin178/cf-stats/main/output/rating.svg)
+<!---![](https://raw.githubusercontent.com/safin178/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/safin178/cf-stats/main/output/rating.svg)--->
 
 
 
