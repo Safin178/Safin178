@@ -15,7 +15,7 @@
 <a href="https://atcoder.jp/users/safin17_8">
     <img alt="Atcoder" src="https://cp-logo.vercel.app/atcoder/safin17_8"/>
 </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedtahsin&label=Profile%20views&color=0e75b6&style=plastic" alt="safin178" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=safin178&label=Profile%20views&color=0e75b6&style=plastic" alt="safin178" /> </p>
 
 
 <!---![](https://raw.githubusercontent.com/safin178/cf-stats/main/output/light_card.svg#gh-dark-mode-only)--->
