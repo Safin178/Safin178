@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&pause=1000&width=435&lines=Sailing+against++the+wind+.+.+.+)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m Afrin Hasan Safin
+<!-- 👋 Hi, I’m Afrin Hasan Safin
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++
   
