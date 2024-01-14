@@ -4,7 +4,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++
   
-<a href="https://codeforces.com/profile/safin17.8">
+<!--<a href="https://codeforces.com/profile/safin17.8">
     <img alt="Codeforces" src="https://raw.githubusercontent.com/safin178/cf-stats/main/output/max_rating.svg"/>
     
 </a>
